@@ -7,5 +7,5 @@ The app will automatically open in the web browser.<br/>
 If it does not, then open <a>http://localhost:3000</a> to view it in the browser.
 
 # Note
-You’ll need to have Node >= 8.10 and npm >= 5.6 on your machine.
+You’ll need to have Node >= 8.10 and npm >= 5.6 on your machine.<br/>
 To add your own data, go to **todo-list -> src -> todosData.js** In the **todosData.js** file, change the data to whatever you want to be displayed.
